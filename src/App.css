@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.banner {
+  width: 100vw;
+  height: 10vh;
+  background-color: cadetblue;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: rgb(138, 31, 225);
+  font-family: fantasy;
+  font-size: 1.5rem;
+}
